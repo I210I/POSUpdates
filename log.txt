@@ -1,0 +1,158 @@
+________________________________
+Revise inventario caso 3 : 
+Precio: 10.00
+Cantidad1
+ID21Cantidad : 0.00
+________________________________
+Revise inventario caso 3 : 
+Precio: 9.00
+Cantidad1
+ID2Cantidad : 0.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 18.00
+Cantidad20
+ID8Cantidad : 3.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 10.00
+Cantidad: 5
+ID: 1005 Cantidad : 2.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 15.00
+Cantidad: 4.5
+ID: 1 Cantidad : 4.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 15.00
+Cantidad: 4.5
+ID: 1 Cantidad : 4.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 15.00
+Cantidad: 5.0
+ID: 1 Cantidad : 4.00
+________________________________
+Revise inventario caso 3 : 
+Precio: 250.00
+Cantidad: 1
+ID :338 Cantidad : 0.00
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near '.'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near '.'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near '.'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near the keyword 'inner'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near the keyword 'inner'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+Incorrect syntax near the keyword 'inner'.
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+IdCategoria
+Punto_de_Venta.Logica.ProductoLogica
+Listar_inventario_bajo
+IdCategoria
+________________________________
+Revise inventario caso 3 : 
+Precio: 15.00
+Cantidad: 1
+ID :5373 Cantidad : 0.00
+________________________________
+Revise inventario caso 3 : 
+Precio: 15.00
+Cantidad: 1
+ID :5373 Cantidad : 0.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 21
+ID: 635 Cantidad : 20.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 21
+ID: 635 Cantidad : 20.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 21
+ID: 635 Cantidad : 20.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 26
+ID: 635 Cantidad : 25.00
+________________________________
+Revise inventario caso 3 : 
+Precio: 30.00
+Cantidad: 1
+ID :635 Cantidad : 0.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 26
+ID: 635 Cantidad : 25.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 25
+ID: 635 Cantidad : 24.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 25
+ID: 635 Cantidad : 24.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 30.00
+Cantidad: 25
+ID: 635 Cantidad : 24.00
+________________________________
+Revise inventario caso 2 : 
+Precio: 18.00
+Cantidad: 1
+ID: 9 Cantidad : 0.00
+________________________________
+Revise inventario caso 1 : 
+Precio: 35.00
+Cantidad: 7
+ID: 36429 Cantidad : 2.00
+________________________________
+Revise inventario caso 2 : 
+Precio: 15.00
+Cantidad: 1
+ID: 40 Cantidad : 0.00
+________________________________
+Revise inventario caso 2 : 
+Precio: 19.00
+Cantidad: 1
+ID: 12 Cantidad : 0.00
+________________________________
+Revise inventario caso 2 : 
+Precio: 19.00
+Cantidad: 1
+ID: 12 Cantidad : 0.00
+________________________________
+Revise inventario caso 2 : 
+Precio: 15.00
+Cantidad: 1
+ID: 41 Cantidad : 0.00
+42703: column tp.idtipopersona does not exist
+
+POSITION: 180
+42703: column tp.idtipopersona does not exist
+
+POSITION: 180
+42703: column tp.idtipopersona does not exist
+
+POSITION: 180
